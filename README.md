@@ -17,10 +17,7 @@ music 🎹, painting 🎨, travel lover ✈️
 ``` swift
 let hwanghongpil = [
         language: "Swift",
-        library: [
-"SDWebImage", "CoreLocation", "SafariServices", "CoreData", "Combine", "Alamofire", "SnapKit",
-"LicensePlist", "RxSwift", "RxCocoa", "ReactorKit", "CombineReactor", "Then", "WeatherKit", "Chart"
-]
+        library: ["SDWebImage", "CoreLocation", "SafariServices", "CoreData", "Combine", "Alamofire", "SnapKit", "LicensePlist", "RxSwift", "RxCocoa", "ReactorKit", "CombineReactor", "Then", "WeatherKit", "Chart"]
         tools: ["Github", "Slack", "Figma"]
         architecture: ["MVC", "MVVM"]
         testable: "Unit Test"
