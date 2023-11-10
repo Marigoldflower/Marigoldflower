@@ -26,3 +26,7 @@ let hwanghongpil = [
         testable: "Unit Test"
     ]
 ```
+
+
+### Check out my blog and resume!
+https://frenchmarigoldflower.notion.site/frenchmarigoldflower/8525909711344c118d9f282063b9f076
