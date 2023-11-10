@@ -9,3 +9,9 @@ Enjoy intellectual conversation 💬
 Be interested in money 💵  
 <br/>
 music 🎹, painting 🎨, travel lover ✈️
+
+<br/>
+#### Here's my skill... 🔨👷‍♂️👨‍💻
+```
+
+```
