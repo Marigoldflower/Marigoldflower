@@ -1,6 +1,6 @@
 ## Floriography == A happiness that will definitely come true 🌼
 <br/>
-Hello!👋 I'm <p>${\rm{\color{#5ad7b7}iOS\ junior\ developer}}$</p> in South Korea. 
+Hello!👋 I'm <p>${\rm{\color{#5ad7b7}iOS\ junior\ developer}}$</p> Living in South Korea. 
 <br/>
 Love to read books, especially about self-developments 📚  
 <br/>
