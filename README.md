@@ -31,4 +31,4 @@ let hwanghongpil = [
 ### Check out my blog and resume!
 My Resume 📄: [![Notion Badge](http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&link=https://frenchmarigoldflower.notion.site/frenchmarigoldflower/8525909711344c118d9f282063b9f076)](https://frenchmarigoldflower.notion.site/frenchmarigoldflower/8525909711344c118d9f282063b9f076)
 <br/>
-My Blog 🧑‍🏫: [![My Blog](생성된 벨로그 뱃지 URL)](블로그 벨로그 링크)
+My Blog 🧑‍🏫: [![Velog Badge](http://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&link=https://velog.io/@marigold410)](https://velog.io/@marigold410)
