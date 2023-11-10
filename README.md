@@ -8,7 +8,7 @@ Enjoy intellectual conversation 💬
 <br/>
 Be interested in money 💵  
 <br/>
-music 🎹, painting 🎨, travel lover ✈️
+Music 🎹, painting 🎨, travel lover ✈️
 
 <br/>
 <br/>
