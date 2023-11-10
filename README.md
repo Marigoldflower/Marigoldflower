@@ -1,4 +1,4 @@
-### <span style="color:purple"> Floriography == A happiness that will definitely come true 🌼  </span>
+### Floriography == A happiness that will definitely come true 🌼
 <br/>
 Hello!👋 I'm <b>iOS junior developer</b> in South Korea. 
 <br/>
