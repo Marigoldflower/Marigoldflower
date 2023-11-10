@@ -24,5 +24,5 @@ let hwanghongpil = [
         tools: ["Github", "Slack", "Figma"]
         architecture: ["MVC", "MVVM"]
         testable: "Unit Test"
-    ]
+]
 ```
