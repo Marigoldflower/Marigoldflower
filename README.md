@@ -1,6 +1,6 @@
 ## Floriography == A happiness that will definitely come true 🌼
 <br/>
-Hello!👋 I'm <b><span style="background-color:#F7DDBE"> iOS junior developer </span></b> in South Korea. 
+Hello!👋 I'm <b><span style="background-color:#F7DDBE">iOS junior developer</span></b> in South Korea. 
 <br/>
 Love to read books, especially about self-developments 📚  
 <br/>
