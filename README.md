@@ -29,6 +29,6 @@ var hwanghongpil = [
 <br/>
 
 ### Check out my blog and resume!
-**My Resume** 📄: [![Notion Badge](http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&link=https://frenchmarigoldflower.notion.site/frenchmarigoldflower/8525909711344c118d9f282063b9f076)](https://frenchmarigoldflower.notion.site/frenchmarigoldflower/8525909711344c118d9f282063b9f076)
+**My Resume** 📄: [![Notion Badge](http://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&link=https://frenchmarigoldflower.notion.site/65817399ae5449f19a6ddc099e62f6b9?pvs=4)](https://frenchmarigoldflower.notion.site/65817399ae5449f19a6ddc099e62f6b9?pvs=4)
 <br/>
 **My Blog** 🧑‍🏫: [![Velog Badge](http://img.shields.io/badge/-Velog-20C997?style=flat&logo=Velog&link=https://velog.io/@marigold410)](https://velog.io/@marigold410)
