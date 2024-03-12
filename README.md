@@ -23,8 +23,8 @@ var hwanghongpil = [
         ]
         tools: ["Github", "Slack", "Figma"]
         architecture: ["MVC", "MVVM"]
+        design: "HIG"
         testable: "Unit Test"
-        productManage: "HIG"
     ]
 ```
 <br/>
