@@ -19,7 +19,8 @@ var hwanghongpil = [
         language: ["Swift", "UIKit", "SwiftUI"],
         library: [
         "SDWebImage", "CoreLocation", "SafariServices", "CoreData", "Combine", "Alamofire", "SnapKit",
-        "LicensePlist", "RxSwift", "RxCocoa", "ReactorKit", "CombineReactor", "Then", "WeatherKit", "Chart", "NMapsMap", "RxRelay", "FirebaseAuth", "FirebaseFirestore", "Kingfisher"
+        "LicensePlist", "RxSwift", "RxCocoa", "ReactorKit", "CombineReactor", "Then", "WeatherKit", "Chart",
+        "NMapsMap", "RxRelay", "FirebaseAuth", "FirebaseFirestore", "Kingfisher"
         ]
         tools: ["Github", "Slack", "Figma"]
         architecture: ["MVC", "MVVM", "Architecture Based On DIP"]
