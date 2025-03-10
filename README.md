@@ -1,6 +1,6 @@
 ## Floriography == A happiness that will definitely come true 🌼
 <br/>
-Hello!👋 I'm <p>${\rm{\color{#f5cac3}iOS\ junior\ developer.}}$</p> Living in South Korea
+Hello!👋 I'm iOS developer. Living in South Korea
 <br/>
 Love to read books, especially about self-developments 📚  
 <br/>
@@ -19,10 +19,10 @@ var hwanghongpil = [
         language: ["Swift", "UIKit", "SwiftUI"],
         library: [
         "SDWebImage", "CoreLocation", "SafariServices", "CoreData", "Combine", "Alamofire", "SnapKit",
-        "LicensePlist", "RxSwift", "RxCocoa", "ReactorKit", "CombineReactor", "Then", "WeatherKit", "Chart"
+        "LicensePlist", "RxSwift", "RxCocoa", "ReactorKit", "CombineReactor", "Then", "WeatherKit", "Chart", "NMapsMap", "RxRelay", "FirebaseAuth", "FirebaseFirestore", "Kingfisher"
         ]
         tools: ["Github", "Slack", "Figma"]
-        architecture: ["MVC", "MVVM"]
+        architecture: ["MVC", "MVVM", "Architecture Based On DIP"]
         design: ["Human Interface Guidelines"]
         testable: ["Unit Test"]
     ]
